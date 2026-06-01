@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm an Aspiring Data Analyst
 
-<!--
-**shrutigarud07/shrutigarud07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile Summary
 
-Here are some ideas to get you started:
+I am currently building my foundation in programming and data-related concepts with a strong focus on consistency, practical learning, and real-world application. My journey started from the basics, and I am continuously improving through structured practice and project-based learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Journey
+
+I began my journey with no prior technical background and have been steadily developing my skills through hands-on coding practice and problem-solving. I focus on understanding concepts deeply and applying them through small exercises and projects.
+
+## Work Approach
+
+- Consistent daily learning and practice
+- Hands-on implementation of concepts
+- Building a strong problem-solving mindset
+- Maintaining structured progress through GitHub
+
+## Objective
+
+To grow into a professional Data Analyst by developing strong analytical thinking, practical problem-solving ability, and the discipline to work with real-world data.
+
+## Note
+
+This GitHub profile represents my learning journey, progress, and continuous improvement.
